@@ -1,6 +1,5 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; Python/Clojure encrypt/decrypt code for AES/ECB/PKCS5Padding 128/256 bits          ;;
-;; Ischenko Vladyslav 07/09/2016                                                      ;;
 ;;                                                                                    ;;
 ;; Java Cryptography Extension (JCE) Unlimited Strength Jurisdiction Policy           ;;
 ;; http://www.oracle.com/technetwork/java/javase/downloads/jce-7-download-432124.html ;;
